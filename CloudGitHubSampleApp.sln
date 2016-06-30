@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
+# Visual Studio 2013 added
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudGitHubSampleApp", "CloudGitHubSampleApp\CloudGitHubSampleApp.csproj", "{D7524388-1F71-4C26-82C9-2D716F306C70}"
